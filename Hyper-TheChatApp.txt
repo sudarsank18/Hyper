@@ -1,0 +1,22 @@
+Hyper - The Chat App
+
+Requirements specification
+->user authentication
+	->can manage profile( image, name )
+	->can start an chat with user_id
+	->show previous conversed user
+		-> user can choose in those to open the chat with them
+	->opened chats should show
+		-> user id
+		-> chat history
+		-> online status
+		-> profile image
+		-> share menubar
+			-> file sharing
+			-> audio
+			-> video
+			-> image
+		-> user can delete a chat
+	->can delete a chat history
+->create an account
+
